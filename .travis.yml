@@ -1,6 +1,6 @@
 language: node_js
 node_js: stable
-293889f6eda204c05ac957c4d3950a38b85cfdd2
+
 install:
     - npm install
 
